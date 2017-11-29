@@ -1,2 +1,2 @@
 # K8specs
-Just testing 123
+Just testing
